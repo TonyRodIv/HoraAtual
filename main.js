@@ -59,4 +59,4 @@ function carregar() {
   }
 }
 console.log(carregar())
-// setInterval(carregar, 1000);
+setInterval(carregar, 2000);
